@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SemaforoAPP</string>
+    <string name="hola_mundo">Hola Mundo</string>
 </resources>
