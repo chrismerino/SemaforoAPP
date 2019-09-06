@@ -2,8 +2,9 @@
     <string name="app_name">SemaforoAPP</string>
     <string name="text_textView">Deshabilitado</string>
     <string name="text_ButtonIniciar">Iniciar</string>
-    <string name="text_ButtonParar">Parar</string>
+    <string name="text_ButtonStop">Parar</string>
     <string name="text_Adelante">Adelante</string>
     <string name="text_Precaucion">Precaucion</string>
     <string name="text_Alto">Alto</string>
+    <string name="text_textViewContador">5</string>
 </resources>
